@@ -238,29 +238,14 @@ Example:
 
 ---
 
-# 🔍 Key Insights
+## 🔍 Key Insights
 
-The dashboard enables stakeholders to identify and evaluate:
-
-### Sales Performance
-Compare sales contributions across regions, markets, categories, and segments.
-
-### Product Performance
-Identify the top 10 products contributing to overall sales.
-
-### Customer Performance
-Identify the top 10 customers based on sales contribution.
-
-### Sales Trends
-Analyze monthly sales patterns and changes over time.
-
-### Profitability
-Evaluate business profitability using Total Profit, Profit Margin, and Total Profit by Category.
-
-### Geographic Performance
-Analyze sales distribution across different markets.
-
-> **Note:** Specific numerical business insights should be derived from the selected filters and dashboard context rather than assumed as fixed values.
+1. APAC generated the highest sales at $3.59M.
+2. Technology was the top-selling category with $4.74M in sales.
+3. Consumer segment generated the highest sales at $6.51M (51.48%).
+4. December recorded the highest monthly sales at approximately $1.58M.
+5. Overall profit margin was 11.61%, with $1.47M in total profit.
+6. Total sales reached $12.64M from approximately 25K orders.
 
 ---
 
