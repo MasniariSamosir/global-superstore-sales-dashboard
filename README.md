@@ -140,7 +140,7 @@ The dashboard contains five key performance indicators:
 - **Average Order Value**
 - **Profit Margin**
 
-![KPI Overview](screenshots/kpi-overview.png)
+![KPI Overview](Images/kpi-overview.png)
 
 ---
 
@@ -148,7 +148,7 @@ The dashboard contains five key performance indicators:
 
 Compares sales performance across different regions.
 
-![Sales by Region](screenshots/sales-by-region.png)
+![Sales by Region](Images/sales-by-region.png)
 
 ---
 
@@ -160,7 +160,7 @@ Analyzes sales performance across:
 - Furniture
 - Office Supplies
 
-![Sales by Category](screenshots/sales-by-category.png)
+![Sales by Category](Images/sales-by-category.png)
 
 ---
 
@@ -168,7 +168,7 @@ Analyzes sales performance across:
 
 Visualizes monthly sales performance and changes over time.
 
-![Monthly Sales Trend](screenshots/monthly-sales-trend.png)
+![Monthly Sales Trend](Images/monthly-sales-trend.png)
 
 ---
 
@@ -180,7 +180,7 @@ Analyzes sales contribution from:
 - Corporate
 - Home Office
 
-![Sales by Segment](screenshots/sales-by-segment.png)
+![Sales by Segment](Images/sales-by-segment.png)
 
 ---
 
@@ -188,7 +188,7 @@ Analyzes sales contribution from:
 
 Identifies the top-performing products based on sales.
 
-![Top 10 Products](screenshots/top-10-products.png)
+![Top 10 Products](Images/top-10-products.png)
 
 ---
 
@@ -196,7 +196,7 @@ Identifies the top-performing products based on sales.
 
 Identifies customers with the highest sales contribution.
 
-![Top 10 Customers](screenshots/top-10-customers.png)
+![Top 10 Customers](Images/top-10-customers.png)
 
 ---
 
@@ -204,7 +204,7 @@ Identifies customers with the highest sales contribution.
 
 Provides a geographic view of sales performance across markets using a filled map.
 
-![Sales by Market](screenshots/sales-by-market.png)
+![Sales by Market](Images/sales-by-market.png)
 
 ---
 
@@ -212,7 +212,7 @@ Provides a geographic view of sales performance across markets using a filled ma
 
 Compares profitability across product categories.
 
-![Profit by Category](screenshots/profit-by-category.png)
+![Profit by Category](Images/profit-by-category.png)
 
 ---
 
@@ -226,7 +226,7 @@ The dashboard includes three interactive slicers:
 
 These filters dynamically update the KPI cards and visualizations.
 
-![Interactive Slicers](screenshots/interactive-slicers.png)
+![Interactive Slicers](Images/interactive-slicers.png)
 
 ## Dynamic Dashboard Title
 
