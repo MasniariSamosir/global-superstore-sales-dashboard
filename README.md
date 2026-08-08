@@ -2,6 +2,7 @@
 
 An interactive **Sales & Profitability Dashboard** developed using **Microsoft Power BI** to analyze sales performance, profitability, customer and product performance, trends, and geographic distribution using Global Superstore transactional data.
 
+# 🖼️ Dashboard Preview
 ![Global Superstore Sales Dashboard](Images/dashboard-preview.png)
 
 ---
