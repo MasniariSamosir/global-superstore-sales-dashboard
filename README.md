@@ -294,9 +294,9 @@ global-superstore-sales-dashboard/
 │
 ├── README.md
 │
-├── Global_Superstore_Sales_Dashboard.pbix
+├── Global Superstore.xls
 │
-└── screenshots/
+└── Images/
     ├── dashboard-preview.png
     ├── kpi-overview.png
     ├── sales-by-region.png
