@@ -240,7 +240,7 @@ Example:
 
 ## 🔍 Key Insights
 
-1. APAC generated the highest sales at $3.59M.
+1. APAC generated the highest sales among the markets, contributing approximately $3.59M.
 2. Technology was the top-selling category with $4.74M in sales.
 3. Consumer segment generated the highest sales at $6.51M (51.48%).
 4. December recorded the highest monthly sales at approximately $1.58M.
